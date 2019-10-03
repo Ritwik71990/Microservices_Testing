@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;consumer&apos;&#x0D;&#x0A;- Original project: &apos;consumer&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     ContractTest.kt&#x0D;&#x0A;     JsonToMapServiceTest.kt&#x0D;&#x0A;     MessagingContractTest.kt" description="Delete elements" element1="src/test/kotlin/com/example/demo/MessagingContractTest.kt" element2="src/test/kotlin/com/example/demo/ContractTest.kt" element3="src/test/kotlin/com/example/demo/JsonToMapServiceTest.kt" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1569316209027" subPackages="false" version="1.0"/>
+</session>

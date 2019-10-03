@@ -1,0 +1,439 @@
+2019-09-24 14:10:32,837 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-09-24 14:11:06,230 [Worker-1: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-09-24 14:11:07,810 [Worker-1: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: io.github.christian-draeger:pact-example:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\pom.xml.
+2019-09-24 14:11:09,146 [Worker-1: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-09-24 14:11:13,395 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:consumer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer\pom.xml.
+2019-09-24 14:11:14,331 [Worker-9: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:consumer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer\pom.xml.
+2019-09-24 14:11:16,967 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:11:16,973 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-24 14:11:16,999 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-24 14:11:17,018 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:11:17,061 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-09-24 14:11:20,946 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:consumer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer\pom.xml.
+2019-09-24 14:11:21,958 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:11:21,965 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-24 14:11:21,985 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-24 14:11:21,997 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:11:21,998 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-09-24 14:11:22,576 [Worker-11: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: io.github.christian-draeger:consumer-ui:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer-ui\pom.xml.
+2019-09-24 14:11:24,583 [Worker-5: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:producer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\pom.xml.
+2019-09-24 14:11:28,111 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:11:28,111 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-24 14:11:28,114 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-24 14:11:28,127 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:11:28,127 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 14:11:29,337 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:consumer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer\pom.xml.
+2019-09-24 14:11:32,148 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:11:32,149 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-24 14:11:32,153 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-24 14:11:32,164 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:11:32,165 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 14:11:33,921 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/annotations/2.0.1/annotations-2.0.1-javadoc.jar
+2019-09-24 14:11:33,938 [Worker-5: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.google.code.findbugs:annotations:2.0.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.code.findbugs:annotations:jar:javadoc:2.0.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-09-24 14:11:34,677 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/2.0.2/jsr305-2.0.2-javadoc.jar
+2019-09-24 14:11:34,683 [Worker-5: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.google.code.findbugs:jsr305:2.0.2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.code.findbugs:jsr305:jar:javadoc:2.0.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-09-24 14:11:34,866 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:11:34,867 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:11:34,867 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:11:34,869 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:11:34,869 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:11:35,260 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-joda/2.9.6/jackson-datatype-joda-2.9.6-sources.jar
+2019-09-24 14:11:35,712 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-joda/2.9.6/jackson-datatype-joda-2.9.6-sources.jar
+2019-09-24 14:11:35,825 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.datatype:jackson-datatype-joda:2.9.6
+2019-09-24 14:11:37,016 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:11:37,017 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:11:37,017 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:11:37,019 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:11:37,020 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 14:20:35,202 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 14:20:53,193 [Worker-6: Launching consumer] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer
+2019-09-24 14:20:53,193 [Worker-6: Launching consumer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean test -Dtest="JavaContractTest"
+2019-09-24 14:22:39,364 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:22:39,364 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:22:39,364 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:22:39,367 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:22:39,368 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:22:39,401 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:22:39,401 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:22:39,401 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:22:39,405 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:22:39,405 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 14:22:45,087 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 14:23:08,730 [Worker-3: Launching consumer (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer
+2019-09-24 14:23:08,730 [Worker-3: Launching consumer (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean test -Dtest="JavaContractTest"
+2019-09-24 14:31:54,492 [Worker-6: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:consumer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer\pom.xml.
+2019-09-24 14:31:55,940 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:31:55,940 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:31:55,941 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:31:55,945 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:31:55,946 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:32:22,341 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 14:32:33,838 [Worker-9: Launching consumer (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer
+2019-09-24 14:32:33,838 [Worker-9: Launching consumer (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B verify pact:publish
+2019-09-24 14:37:13,792 [Worker-16: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:consumer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer\pom.xml.
+2019-09-24 14:37:14,810 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:37:14,810 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:37:14,810 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:37:14,813 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:37:14,813 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:37:34,220 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 14:37:57,113 [Worker-14: Launching consumer (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer
+2019-09-24 14:37:57,114 [Worker-14: Launching consumer (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean pact:publish -Dtest="JavaContractTest"
+2019-09-24 14:40:10,359 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:40:10,362 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-24 14:40:10,364 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:40:10,366 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:40:10,367 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-09-24 14:40:17,062 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 14:40:21,222 [Worker-6: Launching consumer (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer
+2019-09-24 14:40:21,222 [Worker-6: Launching consumer (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean test
+2019-09-24 14:40:56,371 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 14:41:08,576 [Worker-6: Launching consumer (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer
+2019-09-24 14:41:08,577 [Worker-6: Launching consumer (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B pact:publish
+2019-09-24 14:47:14,222 [Worker-16: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:consumer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer\pom.xml.
+2019-09-24 14:47:15,252 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:47:15,253 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:47:15,253 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:47:15,255 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:47:15,256 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:47:24,850 [Worker-16: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:consumer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer\pom.xml.
+2019-09-24 14:47:25,613 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:47:25,613 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:47:25,613 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:47:25,616 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:47:25,616 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:47:30,177 [Worker-14: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:consumer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer\pom.xml.
+2019-09-24 14:47:31,244 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:47:31,244 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:47:31,244 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:47:31,247 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:47:31,247 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:58:34,936 [Worker-18: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:consumer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer\pom.xml.
+2019-09-24 14:58:36,095 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:58:36,095 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:58:36,095 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:58:36,098 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 14:58:36,099 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 14:58:49,837 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 14:58:58,647 [Worker-18: Launching consumer (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer
+2019-09-24 14:58:58,647 [Worker-18: Launching consumer (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean test
+2019-09-24 15:00:15,946 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 15:00:18,072 [Worker-6: Launching consumer (7)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer
+2019-09-24 15:00:18,072 [Worker-6: Launching consumer (7)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B pact:publish
+2019-09-24 15:13:02,426 [Worker-18: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:producer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\pom.xml.
+2019-09-24 15:13:03,810 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/au/com/dius/pact-jvm-provider-spring_2.12/3.6.13/pact-jvm-provider-spring_2.12-3.6.13.pom
+2019-09-24 15:13:04,054 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/au/com/dius/pact-jvm-provider-spring_2.12/3.6.13/pact-jvm-provider-spring_2.12-3.6.13.pom
+2019-09-24 15:13:04,254 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/au/com/dius/pact-jvm-provider-junit_2.12/3.6.13/pact-jvm-provider-junit_2.12-3.6.13.pom
+2019-09-24 15:13:04,599 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/au/com/dius/pact-jvm-provider-junit_2.12/3.6.13/pact-jvm-provider-junit_2.12-3.6.13.pom
+2019-09-24 15:13:04,995 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jooq/jool/0.9.14/jool-0.9.14.pom
+2019-09-24 15:13:05,211 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jooq/jool/0.9.14/jool-0.9.14.pom
+2019-09-24 15:13:06,214 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/au/com/dius/pact-jvm-provider-spring_2.12/3.6.13/pact-jvm-provider-spring_2.12-3.6.13.jar
+2019-09-24 15:13:06,513 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/au/com/dius/pact-jvm-provider-spring_2.12/3.6.13/pact-jvm-provider-spring_2.12-3.6.13.jar
+2019-09-24 15:13:06,705 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/au/com/dius/pact-jvm-provider-junit_2.12/3.6.13/pact-jvm-provider-junit_2.12-3.6.13.jar
+2019-09-24 15:13:07,094 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/au/com/dius/pact-jvm-provider-junit_2.12/3.6.13/pact-jvm-provider-junit_2.12-3.6.13.jar
+2019-09-24 15:13:07,335 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jooq/jool/0.9.14/jool-0.9.14.jar
+2019-09-24 15:13:08,932 [Worker-18: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jooq/jool/0.9.14/jool-0.9.14.jar
+2019-09-24 15:13:09,532 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:13:09,533 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:13:09,533 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:13:09,536 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:13:09,536 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:13:12,215 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:13:12,215 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-24 15:13:12,217 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-24 15:13:12,226 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:13:12,226 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:13:12,916 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/au/com/dius/pact-jvm-provider-spring_2.12/3.6.13/pact-jvm-provider-spring_2.12-3.6.13-sources.jar
+2019-09-24 15:13:13,160 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/au/com/dius/pact-jvm-provider-spring_2.12/3.6.13/pact-jvm-provider-spring_2.12-3.6.13-sources.jar
+2019-09-24 15:13:13,240 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for au.com.dius:pact-jvm-provider-spring_2.12:3.6.13
+2019-09-24 15:13:13,856 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/au/com/dius/pact-jvm-provider-junit_2.12/3.6.13/pact-jvm-provider-junit_2.12-3.6.13-sources.jar
+2019-09-24 15:13:14,198 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/au/com/dius/pact-jvm-provider-junit_2.12/3.6.13/pact-jvm-provider-junit_2.12-3.6.13-sources.jar
+2019-09-24 15:13:14,329 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for au.com.dius:pact-jvm-provider-junit_2.12:3.6.13
+2019-09-24 15:13:14,973 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/au/com/dius/pact-jvm-provider_2.12/3.6.13/pact-jvm-provider_2.12-3.6.13-sources.jar
+2019-09-24 15:13:15,505 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/au/com/dius/pact-jvm-provider_2.12/3.6.13/pact-jvm-provider_2.12-3.6.13-sources.jar
+2019-09-24 15:13:15,573 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for au.com.dius:pact-jvm-provider_2.12:3.6.13
+2019-09-24 15:13:16,219 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi/1.17.1/jansi-1.17.1-sources.jar
+2019-09-24 15:13:16,624 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi/1.17.1/jansi-1.17.1-sources.jar
+2019-09-24 15:13:16,686 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.fusesource.jansi:jansi:1.17.1
+2019-09-24 15:13:17,306 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/reflections/reflections/0.9.11/reflections-0.9.11-sources.jar
+2019-09-24 15:13:17,774 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/reflections/reflections/0.9.11/reflections-0.9.11-sources.jar
+2019-09-24 15:13:17,845 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.reflections:reflections:0.9.11
+2019-09-24 15:13:18,493 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA-sources.jar
+2019-09-24 15:13:20,633 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA-sources.jar
+2019-09-24 15:13:20,700 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.21.0-GA
+2019-09-24 15:13:21,349 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.9.0/scala-java8-compat_2.12-0.9.0-sources.jar
+2019-09-24 15:13:21,848 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.9.0/scala-java8-compat_2.12-0.9.0-sources.jar
+2019-09-24 15:13:21,907 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.scala-lang.modules:scala-java8-compat_2.12:0.9.0
+2019-09-24 15:13:22,578 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jooq/jool/0.9.14/jool-0.9.14-sources.jar
+2019-09-24 15:13:23,400 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jooq/jool/0.9.14/jool-0.9.14-sources.jar
+2019-09-24 15:13:23,455 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jooq:jool:0.9.14
+2019-09-24 15:13:24,185 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:13:24,185 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:13:24,185 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:13:24,188 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:13:24,188 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:14:17,328 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:14:17,329 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:14:17,329 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:14:17,331 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:14:17,331 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:15:55,867 [Worker-14: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:producer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\pom.xml.
+2019-09-24 15:15:57,713 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:15:57,713 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:15:57,714 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:15:57,716 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:15:57,716 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:16:01,319 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:16:01,320 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-24 15:16:01,322 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-24 15:16:01,331 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:16:01,331 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:16:21,303 [Worker-20: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:producer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\pom.xml.
+2019-09-24 15:16:23,055 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:16:23,055 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:16:23,055 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:16:23,057 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:16:23,057 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:16:27,241 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:16:27,242 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-24 15:16:27,244 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-24 15:16:27,251 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:16:27,251 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:17:28,016 [Worker-14: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:producer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\pom.xml.
+2019-09-24 15:17:29,938 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:17:29,938 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:17:29,939 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:17:29,942 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:17:29,942 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:17:32,231 [Worker-21: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:producer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\pom.xml.
+2019-09-24 15:17:33,797 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:17:33,797 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:17:33,797 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:17:33,798 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:17:33,799 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:20:15,724 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:20:15,724 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:20:15,724 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:20:15,726 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:20:15,727 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:20:16,852 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:20:16,852 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:20:16,852 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:20:16,854 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:20:16,855 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:20:26,894 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:20:26,894 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:20:26,895 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:20:26,896 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:20:26,897 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:20:54,454 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:20:54,455 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:20:54,455 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:20:54,457 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:20:54,457 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:21:15,409 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:21:15,409 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:21:15,409 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:21:15,411 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:21:15,411 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:23:40,388 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:23:40,389 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:23:40,389 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:23:40,392 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:23:40,392 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:24:21,900 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:24:21,900 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:24:21,900 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:24:21,903 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:24:21,903 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:24:23,020 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:24:23,020 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:24:23,020 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:24:23,025 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:24:23,026 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:25:18,959 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:25:18,959 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:25:18,959 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:25:18,961 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:25:18,961 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:26:01,343 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:26:01,344 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:26:01,344 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:26:01,346 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:26:01,346 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:27:59,876 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:27:59,876 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:27:59,876 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:27:59,878 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:27:59,878 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:28:25,808 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:28:25,809 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:28:25,809 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:28:25,810 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:28:25,810 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:46:06,784 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:46:06,785 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:46:06,785 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:46:06,787 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:46:06,787 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:47:14,267 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:47:14,267 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:47:14,267 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:47:14,269 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:47:14,269 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:47:57,974 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:47:57,974 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:47:57,974 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:47:57,976 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:47:57,976 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:49:50,201 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:49:50,201 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:49:50,201 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:49:50,203 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:49:50,203 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:53:01,208 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:53:01,208 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:53:01,209 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:53:01,211 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:53:01,211 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 15:53:20,444 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 15:53:24,299 [Worker-20: Launching producer] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer
+2019-09-24 15:53:24,300 [Worker-20: Launching producer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean test
+2019-09-24 15:58:24,313 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:58:24,314 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:58:24,314 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 15:58:24,316 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 15:58:24,316 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 16:05:01,884 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 16:05:01,885 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 16:05:01,885 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 16:05:01,887 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 16:05:01,887 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 16:10:29,193 [Worker-31: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:producer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\pom.xml.
+2019-09-24 16:10:31,079 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 16:10:31,084 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 16:10:31,084 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 16:10:31,087 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 16:10:31,087 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 16:10:36,004 [Worker-31: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:producer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\pom.xml.
+2019-09-24 16:10:37,880 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 16:10:37,883 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 16:10:37,883 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 16:10:37,885 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 16:10:37,885 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 16:11:11,991 [Worker-31: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:producer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\pom.xml.
+2019-09-24 16:11:14,164 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 16:11:14,167 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 16:11:14,168 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 16:11:14,169 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 16:11:14,169 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 16:11:16,113 [Worker-31: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:producer:0.0.1-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\pom.xml.
+2019-09-24 16:11:18,105 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 16:11:18,109 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 16:11:18,109 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 16:11:18,112 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 16:11:18,112 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 16:12:10,142 [Worker-31: Launching Executing install in D__Oracle_Projects_Pact-Junit_pact-example-master_pact-example-master_producer] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer
+2019-09-24 16:12:10,142 [Worker-31: Launching Executing install in D__Oracle_Projects_Pact-Junit_pact-example-master_pact-example-master_producer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-09-24 16:13:33,113 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 16:13:33,118 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-24 16:13:33,130 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-24 16:13:33,132 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 16:13:33,133 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 16:19:28,187 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 16:19:30,639 [Worker-31: Launching consumer (8)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer
+2019-09-24 16:19:30,639 [Worker-31: Launching consumer (8)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-09-24 16:19:40,657 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 16:19:46,860 [Worker-28: Launching consumer (9)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer
+2019-09-24 16:19:46,860 [Worker-28: Launching consumer (9)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-09-24 16:21:13,021 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 16:21:19,289 [Worker-27: Launching consumer (10)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer
+2019-09-24 16:21:19,289 [Worker-27: Launching consumer (10)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B pact:publish
+2019-09-24 16:22:11,597 [Worker-34: Launching Executing install in D__Oracle_Projects_Pact-Junit_pact-example-master_pact-example-master_producer] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer
+2019-09-24 16:22:11,597 [Worker-34: Launching Executing install in D__Oracle_Projects_Pact-Junit_pact-example-master_pact-example-master_producer] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-09-24 16:22:46,173 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 16:22:46,174 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-24 16:22:46,176 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-24 16:22:46,178 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 16:22:46,178 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 16:23:25,712 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 16:23:32,230 [Worker-33: Launching producer (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer
+2019-09-24 16:23:32,231 [Worker-33: Launching producer (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-09-24 16:29:52,229 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 16:29:56,778 [Worker-28: Launching consumer (11)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer
+2019-09-24 16:29:56,778 [Worker-28: Launching consumer (11)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean test
+2019-09-24 16:31:12,741 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 16:31:34,883 [Worker-33: Launching consumer (12)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer
+2019-09-24 16:31:34,884 [Worker-33: Launching consumer (12)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B pact:publish
+2019-09-24 16:33:02,227 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 16:33:11,631 [Worker-31: Launching producer (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer
+2019-09-24 16:33:11,631 [Worker-31: Launching producer (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-09-24 16:40:21,116 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 16:40:27,897 [Worker-37: Launching producer (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer
+2019-09-24 16:40:27,897 [Worker-37: Launching producer (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-09-24 16:42:28,939 [Worker-36: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:producer:0.0.2-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\pom.xml.
+2019-09-24 16:42:31,312 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 16:42:31,317 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 16:42:31,317 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-24 16:42:31,321 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-24 16:42:31,321 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-09-24 16:44:01,652 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-24 16:44:11,413 [Worker-38: Launching producer (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer
+2019-09-24 16:44:11,413 [Worker-38: Launching producer (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-10-01 14:10:34,434 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-10-01 14:10:39,946 [Worker-349: Launching consumer (13)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer
+2019-10-01 14:10:39,946 [Worker-349: Launching consumer (13)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean test
+2019-10-01 14:13:37,204 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-10-01 14:13:43,172 [Worker-352: Launching consumer (14)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\consumer
+2019-10-01 14:13:43,172 [Worker-352: Launching consumer (14)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B pact:publish
+2019-10-01 14:14:17,595 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-10-01 14:14:24,917 [Worker-352: Launching producer (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer
+2019-10-01 14:14:24,918 [Worker-352: Launching producer (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean test
+2019-10-01 14:15:29,094 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-10-01 14:15:45,040 [Worker-352: Launching producer (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer
+2019-10-01 14:15:45,040 [Worker-352: Launching producer (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-10-01 15:05:43,714 [Worker-355: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.github.christian-draeger:producer:0.0.3-SNAPSHOT @ D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\pom.xml.
+2019-10-01 15:05:46,146 [Worker-355: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 15:05:46,151 [Worker-355: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 15:05:46,152 [Worker-355: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 15:05:46,155 [Worker-355: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 15:05:46,155 [Worker-355: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer\src\test\resources
+2019-10-01 15:05:52,607 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-10-01 15:06:00,100 [Worker-349: Launching producer (7)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Oracle\Projects\Pact-Junit\pact-example-master\pact-example-master\producer
+2019-10-01 15:06:00,100 [Worker-349: Launching producer (7)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
